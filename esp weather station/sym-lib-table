@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ESP_8266_OLED_WEATHER_STATION_V!-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ESP_8266_OLED_WEATHER_STATION_V!-eagle-import.lib)(options "")(descr ""))
+)

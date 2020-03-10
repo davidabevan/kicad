@@ -1,0 +1,13 @@
+March 8 2020
+1
+ diode d3 schokkty seems reversed on digispark schematic, when my unit partly built with no zener diodes, module wont power up unless d3 is reversed. Need to check when fully built by reversing diode again.
+2
+On testing couldnt get the status light green to operate, soldered in r1, r2, r3 and it then worked. these must pull bootloader pins pb3 and pb4 to level that exits program mode. In other words without resistors aatiny is waiting for data.
+3
+REVERSED POLARITY OF ATTINY.
+I have a bad habit of pluging these in wrong. symptoms main led dim,
+chip warms quickly. If powered down quickly the attiny survives.
+4 
+Soldering usb
+I find lots of flux tacking down and drag soldering is working for me.
+I also run a bead of solder down front edge where possible

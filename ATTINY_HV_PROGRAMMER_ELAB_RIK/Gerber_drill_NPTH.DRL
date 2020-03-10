@@ -1,0 +1,7 @@
+;NPTH Drill file created by EasyEDA 
+M48
+INCH,00.0000
+%
+G05
+G90
+M30
